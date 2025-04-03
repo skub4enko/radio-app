@@ -1,0 +1,1106 @@
+[
+    {
+        "name": "St.01 Громадське радіо [UA]",
+        "url": "https://hromadske.radio/radio_https_upstream"
+    },
+    {
+        "name": "St.02 Українське радіо Київ [UA]",
+        "url": "http://radio.ukr.radio:8000/ur1-kyiv-mp3"
+    },
+    {
+        "name": "St.03 Радіоточка [UA]",
+        "url": "http://radio.ukr.radio:8000/ur5-mp3"
+    },
+    {
+        "name": "St.04 Radio Ukraine International [UA]",
+        "url": "http://radio.ukr.radio:8000/ur4-mp3"
+    },
+    {
+        "name": "St.05 Українське радіо Казки [UA]",
+        "url": "http://radio.ukr.radio:8000/kazka-mp3"
+    },
+    {
+        "name": "St.06 Родинне радіо [UA]",
+        "url": "https://radio.ukraudio.com:8000/channel1.aac"
+    },
+    {
+        "name": "St.07 Радио Андромеда-Одесса [UA]",
+        "url": "https://garmonia-stream.fakel.com.ua/1"
+    },
+    {
+        "name": "St.08 Радіо Nostalgie-Київ [UA]",
+        "url": "https://stream.radiojar.com/hcrb063nn3quv"
+    },
+    {
+        "name": "St.09 Радіо Київ [UA]",
+        "url": "https://cdn.vsnw.net:8943/kyiv_fm_128k"
+    },
+    {
+        "name": "St.10 Світле Радіо Еммануїл [UA]",
+        "url": "http://online.svitle.org:6730/sre"
+    },
+    {
+        "name": "St.11 Українське радіо Харків [UA]",
+        "url": "http://radio.vaticannews.va:80/stream-uk"
+    },
+    {
+        "name": "St.12 Радіо Культура [UA]",
+        "url": "http://radio.ukr.radio:8000/ur3-mp3"
+    },
+    {
+        "name": "St.13 Радіо NovaLine [UA]",
+        "url": "http://stream.novaline.fm/Novaline_128"
+    },
+    {
+        "name": "St.14 Радіо Промінь [UA]",
+        "url": "http://radio.ukr.radio:8000/ur2-mp3"
+    },
+    {
+        "name": "St.15 Радіо UA-Чикаго [US]",
+        "url": "https://eu8.fastcast4u.com/proxy/radiouachicago?mp=/1"
+    },
+    {
+        "name": "St.16 Радіо Ватикану [UA]",
+        "url": "http://radio.vaticannews.va:80/stream-uk"
+    },
+    {
+        "name": "St.17 Радио свобода [US]",
+        "url": "https://stream.radiojar.com/hcrb063nn3quv"
+    },
+    {
+        "name": "St.18 Первое радио-Израиль [IL]",
+        "url": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio"
+    },
+    {
+        "name": "St.19 KXPD Slavic Family-Portland [US]",
+        "url": "https://us3.streamingpulse.com/ssl/SlavicMediaHoldings"
+    },
+    {
+        "name": "St.20 WHII-Радио Филадельфия [US]",
+        "url": "http://s4.voscast.com:8278/"
+    },
+    {
+        "name": "St.21 WSNR Дэвидзон Радио-Нью-Йорк [US]",
+        "url": "http://ags.abinet.com:8800/wsnr.mp3"
+    },
+    {
+        "name": "St.22 Radio Dresden [DE]",
+        "url": "https://edge09.radio.radiodresden.de/radiodresden-live?aggregator=redirect"
+    },
+    {
+        "name": "St.23 Radio Nostalgie - France [FR]",
+        "url": "https://scdn.nrjaudio.fm/fr/30601/aac_64.mp3?origine=radiomapeu&cdn_path=adswizz_lbs8"
+    },
+    {
+        "name": "St.24 Rock Antenne-Bayern [DE]",
+        "url": "http://stream.rockantenne.de/rockantenne-bayern"
+    },
+    {
+        "name": "St.25 60North Radio (Indie Music) [HQ]",
+        "url": "http://r5.zetcast.net/flac"
+    },
+    {
+        "name": "St.26 95bFM (Alternative Music & News) [HQ]",
+        "url": "https://streams.95bfm.com/stream112"
+    },
+    {
+        "name": "St.27 Antena Zadar–97.2 FM (Croatian Local Radio)[HQ]",
+        "url": "http://hifi.antenazadar.hr:8000/hifi"
+    },
+    {
+        "name": "St.28 BDPST Rock Radio (Rock) [HQ]",
+        "url": "http://s2.audiostream.hu:8091/bdpstrock_FLAC"
+    },
+    {
+        "name": "St.29 Calamar Rradio (Eclectic) [HQ]",
+        "url": "http://www.calamarrradio.org:8000/stream"
+    },
+    {
+        "name": "St.30 Punkrockers Radio (Punk) [HQ]",
+        "url": "https://stream.punkrockers-radio.de:8443/prr.flac"
+    },
+    {
+        "name": "St.31 Radio BluesFlac (Blues) [HQ]",
+        "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/radioblues-flac"
+    },
+    {
+        "name": "St.32 BBC-BBC World Service [UK]",
+        "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8"
+    },
+    {
+        "name": "St.33 Capital [UK]",
+        "url": "https://media-ice.musicradio.com/CapitalMP3"
+    },
+    {
+        "name": "St.34 Capital Xtra [UK]",
+        "url": "https://media-ice.musicradio.com/CapitalXTRALondonMP3"
+    },
+    {
+        "name": "St.35 LBC [UK]",
+        "url": "https://media-ice.musicradio.com/LBCLondonMP3Low"
+    },
+    {
+        "name": "St.36 Classic FM [UK]",
+        "url": "https://media-ice.musicradio.com/ClassicFMMP3"
+    },
+    {
+        "name": "St.37 Asian Star Radio [UK]",
+        "url": "https://radio.canstream.co.uk:9067/live.mp3"
+    },
+    {
+        "name": "St.38 Heart [UK]",
+        "url": "https://media-ice.musicradio.com/HeartHarlowMP3"
+    },
+    {
+        "name": "St.39 Smooth [UK]",
+        "url": "https://media-ice.musicradio.com/SmoothLondonMP3"
+    },
+    {
+        "name": "St.40 Resonance FM [UK]",
+        "url": "http://stream.resonance.fm:80/resonance"
+    },
+    {
+        "name": "St.41 RadioX [UK]",
+        "url": "https://media-ice.musicradio.com/RadioXClassicRockMP3"
+    },
+    {
+        "name": "St.42 Reprezent Radio [UK]",
+        "url": "https://radio.canstream.co.uk:8022/live.mp3"
+    },
+    {
+        "name": "St.43 Радыё Рацыя - Беласток [BY]",
+        "url": "http://air.racyja.com:8000/racja320"
+    },
+    {
+        "name": "St.44 Еўрапейскае радыё для Беларусі [BY]",
+        "url": "http://stream1.euroradio.fm:8000/euroradio1"
+    },
+    {
+        "name": "St.45 Ватыканскае радыё [BY]",
+        "url": "http://radio.vaticannews.va:80/stream-be"
+    },
+    {
+        "name": "St.46 Першы нацыянальны канал [BY]",
+        "url": "http://stream2.datacenter.by:8005/1kanal"
+    },
+    {
+        "name": "St.47 Radijo stotis Rock FM-Lietuva [LT]",
+        "url": "https://stream2.rockfm.lt/crf128.mp3"
+    },
+    {
+        "name": "St.48 ERR Радио 4-Эстония [EE]",
+        "url": "http://icecast.err.ee:80/raadio4.mp3"
+    },
+    {
+        "name": "St.49 Rock Antenne-Deutschland [DE]",
+        "url": "http://stream.rockantenne.de/rockantenne"
+    },
+    {
+        "name": "St.50 Radio Osterreich 1 [AU]",
+        "url": "http://ors-sn03.ors-shoutcast.at/oe1-q2a"
+    },
+    {
+        "name": "St.51 Klassik Radio-Osterreich [AU]",
+        "url": "https://klassikr.streamabc.net/klr-kratnational-mp3-192-4723869?aggregator=Radiomapeu"
+    },
+    {
+        "name": "St.52 Hitradio O3-Osterreich [AU]",
+        "url": "http://ors-sn03.ors-shoutcast.at/oe3-q2a"
+    },
+    {
+        "name": "St.53 Radio Austria-Osterreich [AU]",
+        "url": "http://radioaustria.stream.kapper.net:8000/radioaustria"
+    },
+    {
+        "name": "St.54 FREIRAD-Freies Radio Innsbruck [AU]",
+        "url": "http://stream.freirad.at:8002/live.mp3"
+    },
+    {
+        "name": "St.55 Hitradio O3-Osterreich [AU]",
+        "url": "http://ors-sn03.ors-shoutcast.at/oe3-q2a"
+    },
+    {
+        "name": "St.56 Radio U1 Tirol [DE]",
+        "url": "https://live.u1-radio.at/?"
+    },
+    {
+        "name": "St.57 Radio Vatikan auf Deutsch [DE]",
+        "url": "http://radio.vaticannews.va:80/stream-de"
+    },
+    {
+        "name": "St.58 Radio Arabella Hot-Osterreich [AU]",
+        "url": "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile"
+    },
+    {
+        "name": "St.59 Bayerischer Rundfunk-Bayern 3 [DE]",
+        "url": "http://stream1.energy.at:8000/ibk"
+    },
+    {
+        "name": "St.60 Radio Energy-Innsbruck [AU]",
+        "url": "http://stream1.energy.at:8000/ibk"
+    },
+    {
+        "name": "St.61 Radio FM4-Osterreich [AU]",
+        "url": "http://ors-sn03.ors-shoutcast.at/fm4-q2a"
+    },
+    {
+        "name": "St.62 Bayerischer Rundfunk-BR Klassik [DE]",
+        "url": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid"
+    },
+    {
+        "name": "St.63 Bayerischer Rundfunk-BR24 in Radio [DE]",
+        "url": "https://dispatcher.rndfnk.com/br/br24/live/mp3/mid"
+    },
+    {
+        "name": "St.64 Radio Arabella-Relax-Osterreich [AU]",
+        "url": "https://frontend.streams.arabella.at/arabella-relax?aggregator=arabella-playlistfile"
+    },
+    {
+        "name": "St.65 Radio Energy-Wien [AU]",
+        "url": "http://stream1.energy.at:8000/vie"
+    },
+    {
+        "name": "St.66 Mein Kinderradio-Wien [AU]",
+        "url": "http://stream01.zogl.net:8906/stream"
+    },
+    {
+        "name": "St.67 Radio ONE-Osterreich [AU]",
+        "url": "https://stream.radiotechnikum.at:80/TECHONE"
+    },
+    {
+        "name": "St.68 Radio Alpenwelle-Bayern [DE]",
+        "url": "http://live.alpenwelle.de:80/alpenwelle128.mp3"
+    },
+    {
+        "name": "St.69 Radio Alpin FM-Bayern [DE]",
+        "url": "https://s21.myradiostream.com/14754/listen.mp3"
+    },
+    {
+        "name": "St.70 Radio Charivari - Rosenheim [DE]",
+        "url": "http://s17.myradiostream.com:10938/"
+    },
+    {
+        "name": "St.71 Radio Swiss Classic-Schweiz [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/rsc_de/mp3_128"
+    },
+    {
+        "name": "St.72 Radio Swiss Pop - Switzerland [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/rsp/mp3_128"
+    },
+    {
+        "name": "St.73 Bayerischer Rundfunk-BR Heimat [DE]",
+        "url": "https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid"
+    },
+    {
+        "name": "St.74 RSI Rete Due-Svizzera italiana [IT]",
+        "url": "http://streaming.swisstxt.ch:80/m/retedue/mp3_128"
+    },
+    {
+        "name": "St.75 Radio RTR-Svizra [DE]",
+        "url": "http://streaming.swisstxt.ch:80/m/rr/mp3_128"
+    },
+    {
+        "name": "St.76 Radio Swiss Jazz - Switzerland [DE]",
+        "url": "http://streaming.swisstxt.ch:80/m/rsj/mp3_128"
+    },
+    {
+        "name": "St.77 Bayerischer Rundfunk-PULS [DE]",
+        "url": "https://dispatcher.rndfnk.com/br/puls/live/mp3/mid"
+    },
+    {
+        "name": "St.78 Bayerischer Rundfunk-BR Schlager [DE]",
+        "url": "https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid"
+    },
+    {
+        "name": "St.79 Bayerischer Rundfunk-BR24live [DE]",
+        "url": "https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid"
+    },
+    {
+        "name": "St.80 Radio Caroline [UK]",
+        "url": "http://sc2.radiocaroline.net:8040/"
+    },
+    {
+        "name": "St.81 Radio Caroline Flashback [UK]",
+        "url": "http://sc2.radiocaroline.net:10568"
+    },
+    {
+        "name": "St.82 Virgin Radio UK [UK]",
+        "url": "https://radio.virginradio.co.uk/stream"
+    },
+    {
+        "name": "St.83 Belfast 89 [UK]",
+        "url": "http://mp3streaming.planetwideradio.com:9030/belfastfm"
+    },
+    {
+        "name": "St.84 Klassik Radio [DE]",
+        "url": "https://klassikr.streamabc.net/klr-krdnational-mp3-192-4099384"
+    },
+    {
+        "name": "St.85 NDR Kultur [DE]",
+        "url": "http://icecast.ndr.de/ndr/ndrkultur/live/aac/192/stream.aac"
+    },
+    {
+        "name": "St.86 rbbKultur [DE]",
+        "url": "http://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high"
+    },
+    {
+        "name": "St.87 Classic Praha [CZ]",
+        "url": "http://icecast-u3.play.cz:8000/classic128.mp3"
+    },
+    {
+        "name": "St.88 Cesky rozhlas D-dur [CZ]",
+        "url": "http://rozhlas.stream:80/ddur_mp3_128.mp3"
+    },
+    {
+        "name": "St.89 Sveriges Radio P2-Klassiskt [SE]",
+        "url": "https://http-live.sr.se/p2musik-mp3-128"
+    },
+    {
+        "name": "St.90 ERR Klassikaraadio-Eesti [EE]",
+        "url": "http://icecast.err.ee:80/klassikaraadio.mp3"
+    },
+    {
+        "name": "St.91 NPO Klassiek-Nederland [NL]",
+        "url": "http://icecast.omroep.nl:80/radio4-bb-mp3"
+    },
+    {
+        "name": "St.92 Classic FM-Classical Music Radio [UK]",
+        "url": "https://media-ice.musicradio.com/ClassicFMMP3"
+    },
+    {
+        "name": "St.93 RNE Radio Clásica [ES]",
+        "url": "https://rtvelivestream.akamaized.net/rtvesec/rne/GL0/34_2024_05_10_01_50_54_890665.ts"
+    },
+    {
+        "name": "St.94 RMF Classic-Polska [PL]",
+        "url": "https://rs101-krk.rmfstream.pl/RMFCLASSIC48"
+    },
+    {
+        "name": "St.95 BR Klassik [DE]",
+        "url": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid"
+    },
+    {
+        "name": "St.96 ClassicRadio [UA]",
+        "url": "https://online.classicradio.com.ua/ClassicRadio"
+    },
+    {
+        "name": "St.97 Radio Culture [UA]",
+        "url": "http://radio.ukr.radio:8000/ur3-mp3"
+    },
+    {
+        "name": "St.98 LRT Klasika - Lietuva [LT]",
+        "url": "http://lrt-cast.lrt.lt:8000/lrt_klasika"
+    },
+    {
+        "name": "St.99 WWFM FM-The Classical Network [US]",
+        "url": "https://wwfm.streamguys1.com:80/live"
+    },
+    {
+        "name": "St.100 WQXR Classical [US]",
+        "url": "https://stream.wqxr.org/wqxr"
+    },
+    {
+        "name": "St.101 Radio SRF 2 Kultur-Schweiz [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/drs2/mp3_128"
+    },
+    {
+        "name": "St.102 Radio Suisse Classique-Suisse [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/rsc_fr/mp3_128"
+    },
+    {
+        "name": "St.103 Radio Planet Music [IT]",
+        "url": "https://ns3156088.ip-51-89-96.eu:2000/stream/RadioPlanetMusic"
+    },
+    {
+        "name": "St.104 Radio Palermo Lido [IT]",
+        "url": "https://nr11.newradio.it:19289/stream"
+    },
+    {
+        "name": "St.105 Radio Sportiva-Sicilia [IT]",
+        "url": "https://onair20.xdevel.com/proxy/radiosportiva?mp=/;stream"
+    },
+    {
+        "name": "St.106 Radio Maria-Italia [IT]",
+        "url": "https://dreamsiteradiocp5.com/proxy/rmitalia?mp=/stream"
+    },
+    {
+        "name": "St.107 Radio Vaticana-Roma [IT]",
+        "url": "http://radio.vaticannews.va:80/stream-it"
+    },
+    {
+        "name": "St.108 Radio Monte Carlo-Italia [IT]",
+        "url": "https://icy.unitedradio.it/RMC.mp3"
+    },
+    {
+        "name": "St.109 Radio Tivù Azzurra-Palermo [IT]",
+        "url": "https://ssl2.azotosolutions.com:1076/stream"
+    },
+    {
+        "name": "St.110 Radio Time 90-Palermo [IT]",
+        "url": "https://stream3.xdevel.com/audio1s975521-192/stream/icecast.audio"
+    },
+    {
+        "name": "St.111 RVS-Radio Voce della Speranza [IT]",
+        "url": "https://stream.radiorvs.it/rvs.it"
+    },
+    {
+        "name": "St.112 Virgin Radio-Italia [IT]",
+        "url": "https://icecast.unitedradio.it/Virgin.mp3"
+    },
+    {
+        "name": "St.113 R101-Milano [IT]",
+        "url": "https://icecast.unitedradio.it/r101"
+    },
+    {
+        "name": "St.114 Radio Time-Palermo [IT]",
+        "url": "https://stream3.xdevel.com/audio0s975521-191/stream/icecast.audio"
+    },
+    {
+        "name": "St.115 Radio LatteMiele [IT]",
+        "url": "https://sr15.inmystream.it/stream/lattemiele"
+    },
+    {
+        "name": "St.116 Radio Battikuore [IT]",
+        "url": "https://nr6.newradio.it/proxy/mtiziano?mp=/;?ext=.mp3"
+    },
+    {
+        "name": "St.117 Radio One [IT]",
+        "url": "https://sr6.inmystream.it/proxy/radioone2?mp=/stream"
+    },
+    {
+        "name": "St.118 Radio Vela [IT]",
+        "url": "https://onair11.xdevel.com/proxy/radiovela?mp=/;stream"
+    },
+    {
+        "name": "St.119 Radio Reporter [IT]",
+        "url": "https://cp12.serverse.com/proxy/radioreporter98?mp=/stream"
+    },
+    {
+        "name": "St.120 Radio Italia Anni'60 [IT]",
+        "url": "http://ice37.fluidstream.net:80/ria60_pa.aac"
+    },
+    {
+        "name": "St.121 Radio 105 - Milano [IT]",
+        "url": "https://icecast.unitedradio.it/Radio105.mp3"
+    },
+    {
+        "name": "St.122 Radio In [IT]",
+        "url": "https://stream3.xdevel.com/audio0s975604-233/stream/icecast.audio"
+    },
+    {
+        "name": "St.123 Radio Kiss Kiss [IT]",
+        "url": "https://ice08.fluidstream.net/KissKiss.mp3"
+    },
+    {
+        "name": "St.124 Radio Italia Trend [IT]",
+        "url": "https://stream4.xdevel.com/audio0s976608-1379/stream/icecast.audio"
+    },
+    {
+        "name": "St.125 Radio Libertà [IT]",
+        "url": "https://stream1.xdevel.com/audio0s975360-306/stream/icecast.audio"
+    },
+    {
+        "name": "St.126 Radio Subasio XL [IT]",
+        "url": "https://icy.unitedradio.it/SubasioXL.mp3"
+    },
+    {
+        "name": "St.127 ACI Radio [IT]",
+        "url": "https://nr7.newradio.it:18003/stream"
+    },
+    {
+        "name": "St.128 Radio Antenna Febea [IT]",
+        "url": "https://stream3.xdevel.com/audio1s975408-118/stream/icecast.audio"
+    },
+    {
+        "name": "St.129 Radio Oscià [IT]",
+        "url": "https://stream5.xdevel.com/audio0s976002-865/stream/icecast.audio"
+    },
+    {
+        "name": "St.130 Radio Palermo Lido [IT]",
+        "url": "https://nr11.newradio.it:19289/stream"
+    },
+    {
+        "name": "St.131 Radio Santo Stefano [IT]",
+        "url": "https://nr8.newradio.it:19556/stream"
+    },
+    {
+        "name": "St.132 Radio Sole-Vittoria [IT]",
+        "url": "https://radiosole-fellini.radioca.st/;"
+    },
+    {
+        "name": "St.133 Giornale Radio [IT]",
+        "url": "https://gr.fluidstream.eu/gr1.mp3"
+    },
+    {
+        "name": "St.134 Radio Italia News 24 [IT]",
+        "url": "https://stream6.xdevel.com/audio6s975889-649/stream/icecast.audio"
+    },
+    {
+        "name": "St.135 LifeGate Radio-Milano [IT]",
+        "url": "https://stream1.xdevel.com/audio0s975809-422/stream/icecast.audio"
+    },
+    {
+        "name": "St.136 Radio News [IT]",
+        "url": "https://stream5.xdevel.com/audio5s975889-479/stream/icecast.audio"
+    },
+    {
+        "name": "St.137 Play Radio-Calabria [IT]",
+        "url": "http://ns3159873.ip-51-91-131.eu:8000/stream"
+    },
+    {
+        "name": "St.138 Radio Action [IT]",
+        "url": "https://onair11.xdevel.com/proxy/sc_action101?mp=/;stream"
+    },
+    {
+        "name": "St.139 Radio Più [IT]",
+        "url": "https://sr14.inmystream.it/stream/radiopiu"
+    },
+    {
+        "name": "St.140 RCS Network-Napoli [IT]",
+        "url": "http://ice04.fluidstream.net/fluid0401.mp3"
+    },
+    {
+        "name": "St.141 Radio Napoli [IT]",
+        "url": "http://ice08.fluidstream.net:80/RadioNapoli.aac"
+    },
+    {
+        "name": "St.142 Radio Ibiza [IT]",
+        "url": "http://ice02.fluidstream.net:8080/ibiza.aac"
+    },
+    {
+        "name": "St.143 Radio Marte [IT]",
+        "url": "https://stream1.xdevel.com/audio0s975753-313/stream/icecast.audio"
+    },
+    {
+        "name": "St.144 1Station Radio [IT]",
+        "url": "https://stream5.xdevel.com/audio1s975854-414/stream/icecast.audio"
+    },
+    {
+        "name": "St.145 AFN The Eagle [IT]",
+        "url": "https://23553.live.streamtheworld.com:443/AFNE_NAP_SC"
+    },
+    {
+        "name": "St.146 Nuova San Giorgio [IT]",
+        "url": "https://nr8.newradio.it:19675/stream"
+    },
+    {
+        "name": "St.147 Radio Capri [IT]",
+        "url": "https://stream10.xdevel.com/audio0s977359-1881/stream/icecast.audio"
+    },
+    {
+        "name": "St.148 Radio Punto Zero [IT]",
+        "url": "https://stream9.xdevel.com/audio0s976836-1615/stream/icecast.audio"
+    },
+    {
+        "name": "St.149 Radio Studio 104 [IT]",
+        "url": "https://nr11.newradio.it:19286/stream"
+    },
+    {
+        "name": "St.150 Radio Studio Emme [IT]",
+        "url": "http://ice05.fluidstream.net:80/fluid0505.mp3?FLID=6"
+    },
+    {
+        "name": "St.151 Radio Azurra [IT]",
+        "url": "https://ice09.fluidstream.net/fluid0906.mp3?FLID=1&type=.mp3"
+    },
+    {
+        "name": "St.152 RMA Salerno [IT]",
+        "url": "https://sr7.inmystream.it/proxy/rmaltrisuoni?mp=/stream"
+    },
+    {
+        "name": "St.153 Radio Città Benevento [IT]",
+        "url": "http://s40.myradiostream.com:18660/;"
+    },
+    {
+        "name": "St.154 Radio K55 [IT]",
+        "url": "https://nr9.newradio.it:19211/stream"
+    },
+    {
+        "name": "St.155 Play Tag [IT]",
+        "url": "https://nr3.newradio.it/proxy/cavasvil?mp=/stream"
+    },
+    {
+        "name": "St.156 Tropp Fun Radio [IT]",
+        "url": "https://sr11.inmystream.it/proxy/eduardo?mp=/stream"
+    },
+    {
+        "name": "St.157 Radio International Benevento [IT]",
+        "url": "https://streaming.radiobuonconsiglio.it/;"
+    },
+    {
+        "name": "St.158 Radio In Somma [IT]",
+        "url": "https://play.wrhradios.com/8030/stream"
+    },
+    {
+        "name": "St.159 Radio Onda Rossa [IT]",
+        "url": "https://s.streampunk.cc/ondarossa.mp3"
+    },
+    {
+        "name": "St.160 Radio Manà Manà [IT]",
+        "url": "https://bay1.streamfm.it:8040/aacp"
+    },
+    {
+        "name": "St.161 Radio Sonica [IT]",
+        "url": "https://sr6.inmystream.it:18052/stream"
+    },
+    {
+        "name": "St.162 Tele Radio Stereo [IT]",
+        "url": "https://sr8.inmystream.it:8016/stream"
+    },
+    {
+        "name": "St.163 Simply Italia Radio [IT]",
+        "url": "https://stream4.xdevel.com/audio1s975968-807/stream/icecast.audio"
+    },
+    {
+        "name": "St.164 Radio Incontro Donna [IT]",
+        "url": "https://nr7.newradio.it/proxy/terranov?mp=/stream"
+    },
+    {
+        "name": "St.165 Radio Romanista [IT]",
+        "url": "https://romanista.newradio.it/stream"
+    },
+    {
+        "name": "St.166 RTR99 [IT]",
+        "url": "https://rtr99.fluidstream.eu/rtr99.aac"
+    },
+    {
+        "name": "St.167 Radio Globo[IT]",
+        "url": "https://globo.newradio.it/globorm64"
+    },
+    {
+        "name": "St.168 Globo Vintage Radio [IT]",
+        "url": "http://vintage.newradio.it:80/m100-128"
+    },
+    {
+        "name": "St.169 Dimensione Suono Roma [IT]",
+        "url": "https://icstream.rds.radio/dsr"
+    },
+    {
+        "name": "St.170 Radio Roma [IT]",
+        "url": "https://nr9.newradio.it:19371/stream?ext=.mp3"
+    },
+    {
+        "name": "St.171 Radio Radio [IT]",
+        "url": "https://sr6.inmystream.it:18102/stream"
+    },
+    {
+        "name": "St.172 Radio Rock [IT]",
+        "url": "https://rrock.fluidstream.eu/radiorock.aac"
+    },
+    {
+        "name": "St.173 Radio Mambo [IT]",
+        "url": "https://mambo.newradio.it/stream"
+    },
+    {
+        "name": "St.174 Radio Antenna1 [IT]",
+        "url": "https://a1-it.newradio.it/stream"
+    },
+    {
+        "name": "St.175 Radio Ciao [IT]",
+        "url": "https://onair11.xdevel.com/proxy/sc_ciao?mp=/;stream"
+    },
+    {
+        "name": "St.176 Radio Luna [IT]",
+        "url": "https://nr8.newradio.it/proxy/rmg?mp=/;?ext=.mp3"
+    },
+    {
+        "name": "St.177 70-80.it [IT]",
+        "url": "https://nr8.newradio.it:19574/stream"
+    },
+    {
+        "name": "St.178 Radio Ciccio Riccio [IT]",
+        "url": "https://stream5.xdevel.com/audio0s975942-758/stream/icecast.audio"
+    },
+    {
+        "name": "St.179 Happy Station Radio [IT]",
+        "url": "https://rtr99.fluidstream.eu/rtr99_happy.mp3"
+    },
+    {
+        "name": "St.180 Regional Radio - Umbria [IT]",
+        "url": "https://ondemedie01.radioca.st/stream"
+    },
+    {
+        "name": "St.181 Radio Stidio 93 [IT]",
+        "url": "https://onair15.xdevel.com/proxy/radiostudio93?mp=/;stream/;"
+    },
+    {
+        "name": "St.182 Radio Nostalgia-Toscana [IT]",
+        "url": "https://sc.streamingfm.it:8070/nostalgia"
+    },
+    {
+        "name": "St.183 Radio Bruno-Milano [IT]",
+        "url": "https://stream1.xdevel.com/audio7s975552-215/stream/icecast.audio"
+    },
+    {
+        "name": "St.184 Radio Millennium [IT]",
+        "url": "https://mln.fluidstream.eu/millennium1.mp3"
+    },
+    {
+        "name": "St.185 Radio VivaFM-Brescia [IT]",
+        "url": "http://stream2.vivafm.it:8002/stream"
+    },
+    {
+        "name": "St.186 Radio Piterpan [IT]",
+        "url": "http://klasse1.fluidstream.eu/piterpan.mp3?FLID=6"
+    },
+    {
+        "name": "St.187 Radio Marconi-Milano [IT]",
+        "url": "https://onair15.xdevel.com/proxy/radiomarconi29?mp=/;stream/;"
+    },
+    {
+        "name": "St.188 Radio Bergamo [IT]",
+        "url": "http://ice04.fluidstream.net:80/bergamo.mp3"
+    },
+    {
+        "name": "St.189 Kristall Radio [IT]",
+        "url": "http://176.31.117.120:8115/stream"
+    },
+    {
+        "name": "St.190 Radio Onda d'Urto-Brescia [IT]",
+        "url": "https://hochimin.urtostream.org:8443/radiondadurto.mp3"
+    },
+    {
+        "name": "St.191 Radio Lombardia [IT]",
+        "url": "https://stream6.xdevel.com/audio0s976574-1328/stream/icecast.audio"
+    },
+    {
+        "name": "St.192 Radio Delta International [IT]",
+        "url": "http://212.7.194.63:9098/;"
+    },
+    {
+        "name": "St.193 Radio Popolare [IT]",
+        "url": "http://livex.radiopopolare.it:80/radiopop"
+    },
+    {
+        "name": "St.194 Radio Bruno Gold Music [IT]",
+        "url": "https://stream2.xdevel.com/audio2s975355-55/stream/icecast.audio"
+    },
+    {
+        "name": "St.195 Radio City-Alessandria [IT]",
+        "url": "https://onair15.xdevel.com/proxy/radiocity?mp=/stream/;"
+    },
+    {
+        "name": "St.196 Radio Company-Padova [IT]",
+        "url": "https://sphera.fluidstream.eu/company.aac"
+    },
+    {
+        "name": "St.197 Futura.FM-Bergamo [IT]",
+        "url": "https://n25a-eu.rcs.revma.com/prp7efk4d2uvv?rj-ttl=5&rj-tok=AAABkNZqFqAAi3V-B-lU1Lt1Wg"
+    },
+    {
+        "name": "St.198 Radio Like [IT]",
+        "url": "https://ice10.fluidstream.net/fluid1001.aac"
+    },
+    {
+        "name": "St.199 Radio Pico-Modena [IT]",
+        "url": "https://stream9.xdevel.com/audio0s976126-1032/stream/icecast.audio"
+    },
+    {
+        "name": "St.200 Radio Pico Classic-Modena [IT]",
+        "url": "https://stream5.xdevel.com/audio1s976126-1033/stream/icecast.audio"
+    },
+    {
+        "name": "St.201 Radio Bella & Monella [IT]",
+        "url": "http://klasse1.fluidstream.eu/bella.mp3?FLID=6"
+    },
+    {
+        "name": "St.202 Radio Ritmo 80-Forever Young [IT]",
+        "url": "http://ice07.fluidstream.net:80/ritmo80.mp3"
+    },
+    {
+        "name": "St.203 Love FM-Puglia [IT]",
+        "url": "http://ice07.fluidstream.net:80/lovefm.mp3"
+    },
+    {
+        "name": "St.204 Radio Selene [IT]",
+        "url": "http://audio1.meway.tv:8013/stream"
+    },
+    {
+        "name": "St.205 Radio Gamma-Bari [IT]",
+        "url": "https://stream5.xdevel.com/audio0s975943-762/stream/icecast.audio"
+    },
+    {
+        "name": "St.206 Radio Master-Foggia [IT]",
+        "url": "https://nr12.newradio.it:8702/stream"
+    },
+    {
+        "name": "St.207 Radio Energy-Torino [IT]",
+        "url": "http://gmusto.radioca.st:8911/mp3"
+    },
+    {
+        "name": "St.208  Radio Hybrid [IT]",
+        "url": "https://nr9.newradio.it/proxy/content?mp=/stream"
+    },
+    {
+        "name": "St.209 Radio Leon-Roma [IT]",
+        "url": "https://nr14.newradio.it:8551/stream?ext=.mp3"
+    },
+    {
+        "name": "St.210 Radio Norba Amore [IT]",
+        "url": "https://icy.unitedradio.it/RN02.aac"
+    },
+    {
+        "name": "St.211 Radio Norba Battiti [IT]",
+        "url": "https://icy.unitedradio.it/RN03.aac"
+    },
+    {
+        "name": "St.212 Radio Norba Italiana [IT]",
+        "url": "https://icy.unitedradio.it/RN01.aac"
+    },
+    {
+        "name": "St.213 Radio Norba Joy [IT]",
+        "url": "https://icy.unitedradio.it/RN04.aac"
+    },
+    {
+        "name": "St.214 Radio Silver [IT]",
+        "url": "https://betelgeuse.dribbcast.com/proxy/radiosilver?mp=/stream/;stream.mp3"
+    },
+    {
+        "name": "St.215 Radio System [IT]",
+        "url": "https://nr14.newradio.it:8539/stream"
+    },
+    {
+        "name": "St.216  Radio Easy Rock-Padova [IT]",
+        "url": "https://sphera.fluidstream.eu/easyrock.aac"
+    },
+    {
+        "name": "St.217 Vibra FM [IT]",
+        "url": "http://ice07.fluidstream.net:80/ritmo80.mp3"
+    },
+    {
+        "name": "St.218 Radio Canale Italia [IT]",
+        "url": "https://rci.canaleitalia.tv:8007/listen.pls"
+    },
+    {
+        "name": "St.219 Radio WOW [IT]",
+        "url": "https://sphera.fluidstream.eu/fluid_wow.aac"
+    },
+    {
+        "name": "St.220 Radio SorRriso [IT]",
+        "url": "http://ice02.fluidstream.net/sorriso.mp3?FLID=6"
+    },
+    {
+        "name": "St.221 Radio Gelosa [IT]",
+        "url": "http://klasse1.fluidstream.eu/gelosa.mp3?FLID=6"
+    },
+    {
+        "name": "St.222 Radio Bruno [IT]",
+        "url": "https://stream1.xdevel.com/audio7s975552-215/stream/icecast.audio"
+    },
+    {
+        "name": "St.223 Sunshine Radio-Zentralschweiz [CH]",
+        "url": "https://chmedia.streamabc.net/79-rsunshine-mp3-192-9575103?sABC=669r0869%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721632873"
+    },
+    {
+        "name": "St.224 Radio 24-Zürich [CH]",
+        "url": "https://chmedia.streamabc.net/79-r24-mp3-192-6659699?sABC=669r08ns%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721632943"
+    },
+    {
+        "name": "St.225 Radio SRF 1-Zentralschweiz [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/regi_zentr/mp3_128"
+    },
+    {
+        "name": "St.226 Radio Central-Zentralschweiz  [CH]",
+        "url": "https://chmedia.streamabc.net/79-rcentral-mp3-192-1355604?sABC=669r0983%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721633155"
+    },
+    {
+        "name": "St.227 GOAT Radio [CH]",
+        "url": "https://20min.dmd2streaming.com/20minuten_radio_128.mp3"
+    },
+    {
+        "name": "St.228 Sunshine Radio-Zentralschweiz [CH]",
+        "url": "https://chmedia.streamabc.net/79-rsunshine-mp3-192-9575103?sABC=669r0n25%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721633317"
+    },
+    {
+        "name": "St.229 Radio 1-Zürich [CH]",
+        "url": "https://stream.radio1.ch/128k.m3u"
+    },
+    {
+        "name": "St.230 Radio Argovia-Aargau [CH]",
+        "url": "https://chmedia.streamabc.net/79-argovia-mp3-192-3024993?sABC=669r0nno%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721633451"
+    },
+    {
+        "name": "St.231 Radio SRF 2 Kultur [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/drs2/mp3_128"
+    },
+    {
+        "name": "St.232 Radio Télévision Suisse-La 1ère [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/la-1ere/mp3_128"
+    },
+    {
+        "name": "St.233 Radio SRF 1-Ostschweiz [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/regi_ost/mp3_128"
+    },
+    {
+        "name": "St.234 Radio SRF 3 [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/drs3/mp3_128"
+    },
+    {
+        "name": "St.235 RSI Rete Uno-Svizzera italiana [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/reteuno/mp3_128"
+    },
+    {
+        "name": "St.236 Radio FM1-St. Gallen [CH]",
+        "url": "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=669r0p9p%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721633948"
+    },
+    {
+        "name": "St.237 Aktiv Radio [CH]",
+        "url": "https://s4.radio.co/s7a78bf9d2/listen"
+    },
+    {
+        "name": "St.238 Albradio-Zvicra [CH]",
+        "url": "https://ec6.yesstreaming.net:1800/stream"
+    },
+    {
+        "name": "St.239 Radio GDS.FM [CH]",
+        "url": "http://gdsfm.out.airtime.pro:8000/gdsfm_a"
+    },
+    {
+        "name": "St.240 Kanal K-Aarau [CH]",
+        "url": "https://kanalk.streamabc.net/91-kanalk-mp3-192-5146873?sABC=669r0r4r%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jrofgernz&aw_0_1st.playerid=webstream&amsparams=playerid:webstream;skey:1721634382"
+    },
+    {
+        "name": "St.241 Radio MaXXima-Genève [CH]",
+        "url": "http://maxxima.mine.nu:8080/maxxima.mp3"
+    },
+    {
+        "name": "St.242 Radio Tell [CH]",
+        "url": "https://radiotell.dmd2streaming.com/radiotell.mp3"
+    },
+    {
+        "name": "St.243 TopCC Radio-Zürich [CH]",
+        "url": "https://stream1.xdevel.com/audio7s975552-215/stream/icecast.audio"
+    },
+    {
+        "name": "St.244 Radio X-Basel [CH]",
+        "url": "http://mp3.radiox.ch:8000/standard.mp3"
+    },
+    {
+        "name": "St.245 Radio Swiss Classic [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/rsc_de/mp3_128"
+    },
+    {
+        "name": "St.246 Radio Swiss Jazz [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/rsj/mp3_128"
+    },
+    {
+        "name": "St.247 Radio Télévision Suisse-Couleur 3 [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/couleur3/mp3_128"
+    },
+    {
+        "name": "St.248 Radio Télévision Suisse-Option Musique [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/option-musique/mp3_128"
+    },
+    {
+        "name": "St.249 Radio Gloria-Schweiz DAB+ [CH]",
+        "url": "https://ch-be06-ice.dmd2streaming.com/radiogloria_lo"
+    },
+    {
+        "name": "St.250 Radio Südostschweiz [CH]",
+        "url": "http://streaming.swisstxt.ch:80/m/grischa/aacp_96"
+    },
+    {
+        "name": "St.251 Virgin Radio Switzerland [CH]",
+        "url": "https://chmedia.streamabc.net/79-virginrockch-mp3-192-2872456?sABC=669r137s%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721635711"
+    },
+    {
+        "name": "St.252 Radio Central 2-Zentralschweiz [CH]",
+        "url": "https://chmedia.streamabc.net/79-rcentralasz-mp3-192-1071840?sABC=669r1419%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721635865"
+    },
+    {
+        "name": "St.253 WZIP 88.1 FM-Akron [US]",
+        "url": "https://www.streamvortex.com:8444/s/11300"
+    },
+    {
+        "name": "St.254 WJCU-University Heights [US]",
+        "url": "http://ic.streann.com:8000/rusafm"
+    },
+    {
+        "name": "St.255 WCSB Alternative-Cleveland [US]",
+        "url": "https://shoutcastwidgets.com/ssl/523/.mp3"
+    },
+    {
+        "name": "St.256 WKSU Public Radio-Kent [US]",
+        "url": "http://stream.wksu.org:80/wksu1.mp3.128"
+    },
+    {
+        "name": "St.257 WKSU-HD2 Folk Alley-Kent [US]",
+        "url": "https://freshgrass.streamguys1.com:80/folkalley-128mp3"
+    },
+    {
+        "name": "St.258 WKSU-HD3 All Classical-Kent [US]",
+        "url": "http://stream.wksu.org:80/wksu3.mp3.128"
+    },
+    {
+        "name": "St.259 WKSU-HD4 News & More-Kent [US]",
+        "url": "http://stream.wksu.org:80/wksu4.mp3.128"
+    },
+    {
+        "name": "St.260 WCLV-Cleveland's Classical [US]",
+        "url": "http://audio1.ideastream.org:80/wclv.mp3"
+    },
+    {
+        "name": "St.261 WAPS The Summit 91.3 FM-Akron [US]",
+        "url": "http://208.93.20.18:80/wapshq"
+    },
+    {
+        "name": "St.262 WKHR-Chagrin Falls [US]",
+        "url": "http://ice64.securenetsystems.net:80/WKHR"
+    },
+    {
+        "name": "St.263 WZAK-HD2 Radio Nyra [US]",
+        "url": "https://s3.radio.co/se787a5a6f/listen"
+    },
+    {
+        "name": "St.264 WQGR Gold-Madison/Mentor [US]",
+        "url": "https://ice24.securenetsystems.net:80/WQGR"
+    },
+    {
+        "name": "St.265 WQMX Your Country [US]",
+        "url": "https://26443.live.streamtheworld.com:443/WQMXFM_SC"
+    },
+    {
+        "name": "St.266 CKUE Cool FM-Chatham [US]",
+        "url": "http://live.leanstream.co:80/CKUEFM-MP3"
+    },
+    {
+        "name": "St.267 CFPL-FM96-London [US]",
+        "url": "http://live.leanstream.co:80/CFPLFM-MP3"
+    },
+    {
+        "name": "St.268 WREO Lite Mix-Ashtabula [US]",
+        "url": "http://ice24.securenetsystems.net:80/WREO"
+    },
+    {
+        "name": "St.269 WONE Rock&Roll-Akron [US]",
+        "url": "https://22213.live.streamtheworld.com:443/WONEFM_SC"
+    },
+    {
+        "name": "St.270  WNIR The Talk-Akron [US]",
+        "url": "https://26443.live.streamtheworld.com:443/WNIRFM_SC"
+    },
+    {
+        "name": "St.271 WHOT Hot-Youngstown [US]",
+        "url": "https://19813.live.streamtheworld.com:443/WHOTFM_SC"
+    },
+    {
+        "name": "St.272  WZOO Magic-Ashtabula [US]",
+        "url": "https://ice24.securenetsystems.net:80/WZOO"
+    },
+    {
+        "name": "St.273 WCPZ Mix-Sandusky [US]",
+        "url": "https://ice9.securenetsystems.net:80/WCPZ"
+    },
+    {
+        "name": "St.274 WCRF Moody Radio-Cleveland [US]",
+        "url": "https://26733.live.streamtheworld.com:443/WCRFFM_SC"
+    },
+    {
+        "name": "St.275 WQKT Sports-Country-Wooster [US]",
+        "url": "https://ice64.securenetsystems.net:80/WQKT"
+    },
+    {
+        "name": "St.276 WQXK Country K-Youngstown [US]",
+        "url": "https://18153.live.streamtheworld.com:443/WQXKFM_SC"
+    }
+]
